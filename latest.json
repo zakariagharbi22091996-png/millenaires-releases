@@ -1,11 +1,11 @@
 {
-    "build":  1793906060,
-    "version":  "2026.11.05",
-    "date":  "2026-11-05",
-    "notes":  "",
+    "build":  1794008361,
+    "version":  "2026.11.07",
+    "date":  "2026-11-07",
+    "notes":  "Nouveautés : éditeur de scénarios, écran de fin avec scores et graphiques, ressources par âge (charbon, pétrole, uranium, terres rares), unité, bâtiment et technologie légendaires par civilisation à l\u0027âge 9, Assembleur nano, robots avec corps à corps (touche F), avions plus hauts et plus rapides.\nChangements de règles : les soldats ne s\u0027améliorent plus gratuitement au passage d\u0027âge, unités renforcées d\u0027un âge à l\u0027autre, contres renforcés et affichés sur les cartes.\nConfort : pose de plusieurs bâtiments avec Maj, fermes autour d\u0027un bâtiment, production répartie entre les bâtiments, drapeau sur une ressource, clic sur les arbres, chasse qui continue, villageois qui aident à construire, remboursement total avant le premier coup de marteau.\nModèles humains retravaillés : mains, épaules, vêtements.",
     "zip":  {
-                "url":  "https://github.com/zakariagharbi22091996-png/millenaires-releases/releases/download/b1793906060/Millenaires-win64.zip",
-                "size":  2027894899,
-                "sha256":  "353eb6136e5ad286058ce66ac3c007551b590eba7f3df466379f4571d61f915e"
+                "url":  "https://github.com/zakariagharbi22091996-png/millenaires-releases/releases/download/b1794008361/Millenaires-win64.zip",
+                "size":  2034367227,
+                "sha256":  "26ab76818a99971480b5168c251a62403428617677d4695ab13e710a5658b864"
             }
 }
