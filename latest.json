@@ -1,11 +1,11 @@
 {
-    "build":  1794008361,
-    "version":  "2026.11.07",
+    "build":  1794012953,
+    "version":  "2026.11.07-2",
     "date":  "2026-11-07",
-    "notes":  "Nouveautés : éditeur de scénarios, écran de fin avec scores et graphiques, ressources par âge (charbon, pétrole, uranium, terres rares), unité, bâtiment et technologie légendaires par civilisation à l\u0027âge 9, Assembleur nano, robots avec corps à corps (touche F), avions plus hauts et plus rapides.\nChangements de règles : les soldats ne s\u0027améliorent plus gratuitement au passage d\u0027âge, unités renforcées d\u0027un âge à l\u0027autre, contres renforcés et affichés sur les cartes.\nConfort : pose de plusieurs bâtiments avec Maj, fermes autour d\u0027un bâtiment, production répartie entre les bâtiments, drapeau sur une ressource, clic sur les arbres, chasse qui continue, villageois qui aident à construire, remboursement total avant le premier coup de marteau.\nModèles humains retravaillés : mains, épaules, vêtements.",
+    "notes":  "Unités légendaires : vrais modèles pour la Forteresse orbitale, le Dreadnought volant, le Sphinx de guerre, le Landkreuzer Oméga et le Centurion-Titan, et un nouveau Fenrir.\nCorrections : les grosses unités se cliquent enfin sur tout leur modèle.\nÉquilibrage : Américains renforcés en début de partie (infanterie, récolte, technologie de récolte plus tôt).",
     "zip":  {
-                "url":  "https://github.com/zakariagharbi22091996-png/millenaires-releases/releases/download/b1794008361/Millenaires-win64.zip",
-                "size":  2034367227,
-                "sha256":  "26ab76818a99971480b5168c251a62403428617677d4695ab13e710a5658b864"
+                "url":  "https://github.com/zakariagharbi22091996-png/millenaires-releases/releases/download/b1794012953/Millenaires-win64.zip",
+                "size":  2052431713,
+                "sha256":  "acd2af20825e76cab3bf13ac88622cfdef32de89ea427b6846392fc5edf2cc4e"
             }
 }
